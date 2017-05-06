@@ -5,9 +5,9 @@
 
 $INDEX_PAGE = "home.html";
 
-$URL = "http://www.scholarlydata.org";
+$URL = "http://AnLiGentile.github.io";
 
-$w3id = "https://w3id.org/scholarlydata/";
+$w3id = "https://w3id.org/people/annalisa";
 
 $actual_link = "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
 
